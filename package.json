@@ -4,8 +4,8 @@
   "description": "travel api proxy",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "nodemon index.js"
   },
   "author": "Shubham Kumar Jha",
   "license": "ISC",
